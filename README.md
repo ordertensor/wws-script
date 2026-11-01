@@ -10,18 +10,10 @@
 
 | 服务器 | 域名 |
 | --- | --- |
-| **亚服 (Asia)** | `[https://pacificfront.worldofwarships.asia/](https://pacificfront.worldofwarships.asia/)*`
-
- |
-| **欧服 (EU)** | `[https://pacificfront.worldofwarships.eu/](https://pacificfront.worldofwarships.eu/)*`
-
- |
-| **美服 (NA)** | `[https://pacificfront.worldofwarships.com/](https://pacificfront.worldofwarships.com/)*`
-
- |
-| **国服 (CN)** | `[https://oceanfront.wowsgame.cn/](https://oceanfront.wowsgame.cn/)*`
-
- |
+| **亚服 (Asia)** | `[https://pacificfront.worldofwarships.asia/](https://pacificfront.worldofwarships.asia/)*`|
+| **欧服 (EU)** | `[https://pacificfront.worldofwarships.eu/](https://pacificfront.worldofwarships.eu/)*`|
+| **美服 (NA)** | `[https://pacificfront.worldofwarships.com/](https://pacificfront.worldofwarships.com/)*`|
+| **国服 (CN)** | `[https://oceanfront.wowsgame.cn/](https://oceanfront.wowsgame.cn/)*`|
 
 ---
 
@@ -80,9 +72,7 @@
 | --- | --- | --- |
 | **全歼模式** | `关` | 开启后即使阶段击杀数达标，也会强制清空阶段内所有剩余据点再推进；关闭时达标即切入下一阶段。 |
 | **消耗品节省模式** | `开` | 启用边际效用递减算法平衡战力与道具用量；开启时满血 3 HP 舰船禁用维修包以节约资源。 |
-| **战略资产确权** | `开` | 针对掉落煤炭与快速维修包的槽位启用 95% 特化胜率防线；卡池深厚时可关闭退回常规基准。
-
- |
+| **战略资产确权** | `开` | 针对掉落煤炭与快速维修包的槽位启用 95% 特化胜率防线；卡池深厚时可关闭退回常规基准。|
 | **Boss 战代币优先** | `开` | 关底 Boss 必须在 100% 全歼前提下，后处理管线优先在代币槽位强力装配【效率提升】修改器。 |
 | **Boss 战仅自动选卡** | `开` | 自动游玩遇到 Boss 战时，自动完成最优大卡推演与填槽，随后主动暂停，交由玩家手动开战。 |
 
